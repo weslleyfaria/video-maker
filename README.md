@@ -1,2 +1,2 @@
 # video-maker
-Projeto open source para fazer vídeo automatizados.
+Projeto open source para fazer vídeos automatizados.
