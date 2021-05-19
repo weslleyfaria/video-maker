@@ -38,7 +38,7 @@ async function robot() {
 
         return imagesUrl
     }
-
+  
     async function downloadAllImages(content) {
         content.downloadedImages = []
 
